@@ -45,3 +45,15 @@ int main()
 
     return 0;
 }
+
+
+/*
+1. Space Complexicty = O(1)
+
+2. Time Complexicity = O(n^2)
+    (i) Best case = O(n^2)
+    (ii) Worst case= O(n^2)
+
+3. Use Case: When Size of Array is Small.
+
+*/
